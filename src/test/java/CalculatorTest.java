@@ -19,4 +19,17 @@ public class CalculatorTest {
         assertEquals(12, result, "Сложение работает неверно");
     }
 
+    @Test
+    void testSubtraction() {
+        // Подготовка данных
+        int a = 10;
+        int b = 4;
+
+        // Выполнение действия
+        int result = Calculator.subtract(a, b);
+
+        // Проверка результата
+        assertEquals(6, result, "Вычитание работает неверно");
+    }
+
 }
