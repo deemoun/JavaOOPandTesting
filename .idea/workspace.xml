@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5be97f4e-b539-46e9-91c8-3b0a739a5248" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/deemoun/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/deemoun/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/deemoun/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/deemoun/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/deemoun/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +26,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2YfHXUCIaxg5IR7ZjgHKQCQ050H" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -45,7 +41,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "UnitTests"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "UnitTests",
+    "last_opened_file_path": "/Users/deemounus/Programming/JavaOOPandTesting"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -87,8 +85,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.CalculatorTest" />
-        <item itemvalue="JUnit.All in JavaOOPandTesting" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.All in JavaOOPandTesting" />
       </list>
     </recent_temporary>
   </component>
@@ -102,5 +100,10 @@
       <updated>1700909752259</updated>
     </task>
     <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaOOPandTesting$Main.ic" NAME="Main Coverage Results" MODIFIED="1700921453394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.deemoun.*</FILTER>
+    </SUITE>
   </component>
 </project>
